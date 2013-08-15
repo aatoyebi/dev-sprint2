@@ -1,2 +1,6 @@
 # Please put answers for the week2 stand alone questions here
-# Name:
+# Name: Amaka Atoyebi
+
+1. Personal image album
+2. Password protected folder/file access
+3. Provide files for download to only users in database
